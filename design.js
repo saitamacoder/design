@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const totalTestimonials = testimonials.length;
 
     function showTestimonial(index) {
-        testimonials.forEach(testimonial => testimonial.style.display = 'none');
+        testimonials.forEach(testimonial  => testimonial.style.display = 'none');
         testimonials[index].style.display = 'block';
     }
 
