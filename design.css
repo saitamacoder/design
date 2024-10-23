@@ -15,7 +15,7 @@
     --large-desktop: 1200px;
 }
 
-/* Global Styles */
+/*Global Styles */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -470,3 +470,4 @@ footer {
         justify-content: space-between;
     }
 }
+/* Improved styling r*/
